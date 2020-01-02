@@ -2,6 +2,7 @@
 layout: page
 title: "UCSD CSE8A – Introduction to Programming 1"
 doodle: "/doodle.png"
+doodle-alt: "A sound wave transformed to data, and back to into a higher-frequency version of the same sound. A four-pixel image of red, green, blue, and yellow pixels, transformed into data, then back into a rotated version of the original image."
 ---
 
 # Introduction to Programming I (CSE 8A)
