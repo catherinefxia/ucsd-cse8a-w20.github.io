@@ -5,7 +5,7 @@ doodle: "/doodle.png"
 doodle-alt: "A sound wave transformed to data, and back to into a higher-frequency version of the same sound. A four-pixel image of red, green, blue, and yellow pixels, transformed into data, then back into a rotated version of the original image."
 ---
 
-# Introduction to Programming I (CSE 8A)
+# Introduction to Programming I (UC San Diego CSE 8A)
 
 <b>This web page is unofficial until the start of class on Tuesday, Jan 7, at
 which point it becomes the official syllabus for the course.</b>
