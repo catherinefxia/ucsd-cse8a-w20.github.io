@@ -29,21 +29,6 @@ this learning through written work and your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-<a id="basics"></a>
-## Basics
-
-- Lecture: ...
-- Discussion Section: ...
-- Final Exam: ...
-
-- Podcasts: ...
-- Q&A Forum ...
-- Gradescope: ...
-- Textbook/readings: There's no official textbook, but we will link to
-  different online resources for you to read to supplement lecture. Versions
-  of this course have been taught at several universities, so sometimes I'll
-  link to those instructors' materials as well.
-
 <a id="schedule"></a>
 ## Schedule
 
@@ -58,14 +43,116 @@ general plan so you can know roughly where we are headed.
 
 <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0V4FNey01ZOZrkNVfoGRNaPMAM1_g8xnIoNASXLTVdZRH31Lw92RhC0OHMHM6ls0b3Scz1m9LgHi2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
 
-...
+<a id="basics"></a>
+## Basics
+
+<a id="b:lec"></a>
+<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Lecture</th><th>Time</th><th>Location</th>
+  </tr>
+</thead>
+<tr>
+  <td> A00 </td><td>TuTh 8am</td><td>CENTR115 </td>
+</tr>
+<tr>
+  <td>B00 </td><td>TuTh 9:30am </td><td>CENTR109</td>
+</tr>
+</table>
+
+<a id="b:disc"></a>
+<h3>Discussion</h3>
+Discussion sections will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#p:engage">Engagement</a> with the class.
+
+**TODO** UPDATE ABOVE
+
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Discussion</th><th>Time</th><th>Location</th>
+  </tr>
+</thead>
+<tr>
+  <td>A01 </td><td> Th 7pm </td><td> PCYNH109 </td>
+</tr>
+<tr>
+  <td>B01 </td><td> Th 8pm </td><td> PCYNH109 </td>
+</tr>
+</table>
+
+<a id="b:labs"></a>
+<h3>Lab Sessions</h3>
+
+You must attend the lab session in which you are enrolled.  You will work in groups in lab;
+you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.
+The groups will be assigned by the Lab TA and group
+assignments may
+change from week to week. All labs must be finished
+in the allotted class time.  As a group, you will create a lab report each week and your TA will review
+it and give you feedback.
+
+
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Lab section</th><th>Time</th><th>Location</th><th>TA</th>
+  </tr>
+</thead>
+<tr>
+  <td> A50 </td><td>Wed 8am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A51 </td><td>Wed 9am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A52 </td><td>Wed 10am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A53 </td><td>Wed 11am </td><td>CSE B230 </td><td>Alex</td>
+</tr>
+<tr>
+  <td> B50 </td><td>Wed 12pm </td><td>CSE B230 </td><td>Alex</td>
+</tr>
+<tr>
+  <td> B51 </td><td>Wed 1pm </td><td>CSE B230 </td><td>Laura</td>
+</tr>
+<tr>
+  <td> B52 </td><td>Wed 2pm </td><td>CSE B230 </td><td>Laura</td>
+</tr>
+</table>
+
+- Final Exam: ...
+
+- Podcasts: ...
+- Q&A Forum ...
+- Gradescope: ...
+- Textbook/readings: There's no official textbook, but we will link to
+  different online resources for you to read to supplement lecture. Versions
+  of this course have been taught at several universities, so sometimes I'll
+  link to those instructors' materials as well.
 
 <a id="staff"></a>
 ## Staff & Resources
 
+### Staff
+<a id="staff"></a>
+
+<p>
+<a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
+</p>
+
+There are 22 staff including 4 Supplemental Instruction leaders to help with your learning.
+You can find their names and pictures on **TODO: add and confirm staff num**
+
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ### Office Hours
 
-...
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_iranatnnh11l5uorfkdqpahkis%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ### Useful Resources
