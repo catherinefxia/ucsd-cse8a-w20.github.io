@@ -88,15 +88,13 @@ Discussion sections will demo tools and answer questions about the programming a
 <a id="b:labs"></a>
 <h3>Lab Sessions</h3>
 
-You must attend the lab session in which you are enrolled.  You will work in groups in lab;
-you are starting your journey into Computer Science and we want
-to help you meet your classmates who will be with you along the way.
-The groups will be assigned by the Lab TA and group
-assignments may
-change from week to week. All labs must be finished
-in the allotted class time.  As a group, you will create a lab report each week and your TA will review
-it and give you feedback.
-
+You must attend the lab session in which you are enrolled.  You will work in
+groups in lab; you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.  The
+groups will be assigned by the Lab TA and group assignments may change from
+week to week. All labs must be finished in the allotted class time.  As a
+group, you will create a lab report each week and your TA will review it and
+give you feedback.
 
 <table class="table table-striped">
 <thead>
@@ -193,10 +191,10 @@ You can find their names and pictures on **TODO: add and confirm staff num**
 
 Your grade will be calculated from:
 
-- 40% exams
+- 48% exams
 - 10% engagement
-- 10% reading, review, and drill exercises
-- 40% programming assignments
+- 15% reading, review, and drill exercises
+- 27% programming assignments
 
 After your weighted average is calculated, letter grades will be assigned based
 on the following grading scale:
@@ -262,7 +260,9 @@ on academic integrity as well.
 
 ### Late Work
 
-...
+In general, late work is not accepted. However, there will be ways to earn back
+credit on assignments after there submission, which may differ across
+assignments and will be announced during the quarter.
 
 ### Regrades
 
@@ -274,7 +274,38 @@ initially given is final.
 
 ### Exams
 
-...
+There are four tests during the quarter and a final exam. The tests will be
+held during discussion sections in weeks 3, 5, 7, and 9.
+
+The scoring of the tests and final works as follows:
+
+- The final exam will be split into four sections, roughly corresponding to the
+  material covered by each test, and each worth 25% of your exam score
+- The score you get on each test adds to your final exam score in the relevant
+  category, up to a maximum of 10 out of the 25 points for that section.
+
+This means that each test can help your final exam score, but you don't lose
+points forever for a poor grade on a test, it just means you need to do better
+on that part of the final exam.
+
+Example: A student scores 50%, 60%, 0%, and 80% on the four tests. On the final
+exam, they score 10/25, 20/25, 20/25, 15/25 on each of the four sections. Their
+final exam score would be (10 + 5) + (20 + 6) + (20 + 0) + (15 + 8) for a total
+of 83/100 on the exam in total. Note that on the second part, 20 points earned
+on the exam and 6 points earned on the in-class test do not give extra credit,
+they “max out” the score at 25 for that part of the final.
+
+**Make-up Exams**: There are no make-up exams given. If you miss one of the
+tests, your score for that test is a 0 and you don't earn credit towards that
+part of the final exam ahead of time. Note that this doesn't necessarily impact
+your final grade, since you can still earn all of the credit on the final exam
+itself. If you get a lower score on the final exam than the average of your
+test scores minus 15%, you instead earn that score on the final. This includes
+the case where you miss or skip the final exam. So if you scored 60%, 70%, 80%,
+and 90% on the two midterms and skip the final, your final exam grade will be
+60%. Similarly, if you took the final but only earned a few points and would
+have earned something lower than 60% overall, you get 60% for your final exam
+grade instead.
 
 ### Laptop/Device Policy in Lecture
 
