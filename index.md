@@ -29,21 +29,6 @@ this learning through written work and your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-<a id="basics"></a>
-## Basics
-
-- Lecture: ...
-- Discussion Section: ...
-- Final Exam: ...
-
-- Podcasts: ...
-- Q&A Forum ...
-- Gradescope: ...
-- Textbook/readings: There's no official textbook, but we will link to
-  different online resources for you to read to supplement lecture. Versions
-  of this course have been taught at several universities, so sometimes I'll
-  link to those instructors' materials as well.
-
 <a id="schedule"></a>
 ## Schedule
 
@@ -56,14 +41,134 @@ schedule confirmed more than a week out, but we'll always be at least a week
 ahead. The schedule of lecture topics might change slightly, but I post a
 general plan so you can know roughly where we are headed.
 
-...
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0V4FNey01ZOZrkNVfoGRNaPMAM1_g8xnIoNASXLTVdZRH31Lw92RhC0OHMHM6ls0b3Scz1m9LgHi2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
+
+<a id="basics"></a>
+## Basics
+
+<a id="b:lec"></a>
+<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Lecture</th><th>Time</th><th>Location</th>
+  </tr>
+</thead>
+<tr>
+  <td> A00 </td><td>TuTh 8am</td><td>CENTR115 </td>
+</tr>
+<tr>
+  <td>B00 </td><td>TuTh 9:30am </td><td>CENTR109</td>
+</tr>
+</table>
+
+<a id="b:disc"></a>
+<h3>Discussion</h3>
+Discussion sections will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#p:engage">Engagement</a> with the class.
+
+**TODO** UPDATE ABOVE
+
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Discussion</th><th>Time</th><th>Location</th>
+  </tr>
+</thead>
+<tr>
+  <td>A01 </td><td> Th 7pm </td><td> PCYNH109 </td>
+</tr>
+<tr>
+  <td>B01 </td><td> Th 8pm </td><td> PCYNH109 </td>
+</tr>
+</table>
+
+<a id="b:labs"></a>
+<h3>Lab Sessions</h3>
+
+You must attend the lab session in which you are enrolled.  You will work in groups in lab;
+you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.
+The groups will be assigned by the Lab TA and group
+assignments may
+change from week to week. All labs must be finished
+in the allotted class time.  As a group, you will create a lab report each week and your TA will review
+it and give you feedback.
+
+
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Lab Section</th><th>Time</th><th>Location</th><th>TA</th>
+  </tr>
+</thead>
+<tr>
+  <td> A50 </td><td>Wed 8am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A51 </td><td>Wed 9am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A52 </td><td>Wed 10am </td><td>CSE B230 </td><td>Sophia</td>
+</tr>
+<tr>
+  <td> A53 </td><td>Wed 11am </td><td>CSE B230 </td><td>Alex</td>
+</tr>
+<tr>
+  <td> B50 </td><td>Wed 12pm </td><td>CSE B230 </td><td>Alex</td>
+</tr>
+<tr>
+  <td> B51 </td><td>Wed 1pm </td><td>CSE B230 </td><td>Laura</td>
+</tr>
+<tr>
+  <td> B52 </td><td>Wed 2pm </td><td>CSE B230 </td><td>Laura</td>
+</tr>
+</table>
+
+<a id="finalexam"></a>
+<h3>Final Exam</h3>
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Time</th><th>Location</th>
+  </tr>
+</thead>
+<tr>
+  <td>Sat 11:30a-2:29p</td><td>TBD</td>
+</tr>
+</table>
+
+<a id="podcasts"></a>
+<h3>Podcasts</h3>
+All lectures will be podcasted. **TODO** add links
+
+
+- Q&A Forum ...
+- Gradescope: ...
+- Textbook/readings: There's no official textbook, but we will link to
+  different online resources for you to read to supplement lecture. Versions
+  of this course have been taught at several universities, so sometimes I'll
+  link to those instructors' materials as well.
 
 <a id="staff"></a>
 ## Staff & Resources
 
+### Staff
+<a id="staff"></a>
+
+<p>
+<a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
+</p>
+
+There are 22 staff including 4 Supplemental Instruction leaders to help with your learning.
+You can find their names and pictures on **TODO: add and confirm staff num**
+
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ### Office Hours
 
-...
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_iranatnnh11l5uorfkdqpahkis%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ### Useful Resources
@@ -271,3 +376,53 @@ If you experience any sort of harassment or discrimination, please contact the
 instructor as soon as possible.   If you prefer to speak with someone outside
 of the course, please contact the Office of Prevention of Harassment and
 Discrimination: https://ophd.ucsd.edu/.
+
+### Consent to Participate in Educational Research
+University of California, San Diego
+Consent to Act as a Research Subject
+Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement
+
+Who is conducting the study, why you have been asked to participate, how you were selected, and what is the approximate number of participants in the study?
+Gabriele Wienhausen, Director of the Teaching and Learning Commons, together with her education research colleagues is conducting a research study to find out more about how pedagogical choices affect student learning and experience in the classroom. You have been asked to participate in this study because you are a student in a class that is being studied or used as a control. There will be approximately 500,000 participants in this study.
+
+Why is this study being done?
+The purpose of this study is to create knowledge that has the potential to improve the learning and educational experience of students at UC San Diego and beyond.
+
+What will happen to you in this study and which procedures are standard of care and which are experimental?
+If you agree to be in this study, the following will happen:
+Your data from this class including grades, homework and exam submissions, and survey responses will be included in the analysis to determine the effectiveness of the pedagogical techniques used in this course compared to other similar courses.
+
+How much time will each study procedure take, what is your total time commitment, and how long will the study last?
+Your participation involves only agreeing to let us use your data in our analysis.  It will require no time on your part above the time you put into this course without agreeing to the study.
+
+What risks are associated with this study?
+Participation in this study may involve some added risks or discomforts. These include the following:
+
+1.   A potential for the loss of confidentiality.   We will not share your personally identifying data with people outside our research team.  Data will only be kept in anonymized form for research purposes.  Course data will not be used for this research study until after final grades have been posted and will be rendered confidential by removing any identifiers before analysis.  Your instructor will not know whether or not you are participating in this study until after final grades have been posted.  Data from students who opt out of the study will be removed prior to data analysis.  Research records will be kept confidential to the extent allowed by law. Research records may be reviewed by the UCSD Institutional Review Board.
+
+Since this is an investigational study, there may be some unknown risks that are currently unforeseeable. You will be informed of any significant new findings.
+
+What are the alternatives to participating in this study?
+The alternatives to participation in this study are not to participate.   If you choose to opt-out of participating in this research study, we will exclude your data from analysis.  Whether you participate will have no impact on your experience or grade in the associated class as the professor will not know who is or is not participating in the study until after final grades are assigned.
+
+What benefits can be reasonably expected?
+There is no direct benefit to you for participating in the study. The investigator, however, may learn more about how to improve student learning, and society may benefit from this knowledge.
+
+Can you choose to not participate or withdraw from the study without penalty or loss of benefits?
+Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: https://goo.gl/forms/JSBRjEmkES6W6xYc2.  If you decide to opt out after the quarter has ended, you must contact Laurel Nelson (laureln@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
+You will be told if any important new information is found during the course of this study that may affect your wanting to continue.
+
+Can you be withdrawn from the study without your consent?
+The PI may remove you from the study without your consent if the PI feels it is in your best interest or the best interest of the study. You may also be withdrawn from the study if you do not follow the instructions given you by the study personnel.
+
+Will you be compensated for participating in this study?
+You will not be compensated for participating in this study.
+
+Are there any costs associated with participating in this study?
+There will be no cost to you for participating in this study.
+ Who can you call if you have questions?
+Gabriele Wienhausen and/or her colleague has explained this study to you and answered your questions. If you have other questions or research-related problems, you may reach Gabriele Wienhausen at gwienhausen@ucsd.edu or (858) 534-3958.
+You may call the Human Research Protections Program Office at 858-246-HRPP (858-246-4777) to inquire about your rights as a research subject or to report research-related problems.
+
+Your Consent
+If you consent to participate in this study and are at least 18 years old, no action is needed.  If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at  https://goo.gl/forms/JSBRjEmkES6W6xYc2.  Your instructor will not have access to the list of students who opted out until after grades are posted.  Note that you must separately opt-out of the study for each course involved in this study.
