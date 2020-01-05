@@ -56,6 +56,8 @@ schedule confirmed more than a week out, but we'll always be at least a week
 ahead. The schedule of lecture topics might change slightly, but I post a
 general plan so you can know roughly where we are headed.
 
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0V4FNey01ZOZrkNVfoGRNaPMAM1_g8xnIoNASXLTVdZRH31Lw92RhC0OHMHM6ls0b3Scz1m9LgHi2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
+
 ...
 
 <a id="staff"></a>
