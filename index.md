@@ -39,7 +39,7 @@ course, as well as the syllabus.
 - Podcasts: [coming soon]
 - Q&A Forum: Discussions on Canvas
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be send with your first assignment]
-- Readings/quizzes/drill assignments: Stepik [link coming soon]
+- Readings/quizzes/drill assignments: Stepik [https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3](https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3)
 
 On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour
 in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
