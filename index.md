@@ -7,9 +7,6 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 
 # Introduction to Programming I (UCSD CSE 8A)
 
-<b>This web page is unofficial until this notice is removed which point it
-becomes the official syllabus for the course.</b>
-
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
 
 <p>
