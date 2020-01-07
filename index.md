@@ -37,9 +37,9 @@ course, as well as the syllabus.
 ## Basics
 
 - Podcasts: [coming soon]
-- Q&A Forum: Discussions on Canvas
-- Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be send with your first assignment]
-- Readings/quizzes/drill assignments: Stepik [https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3](https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3)
+- Q&A Forum: Discussions on [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
+- Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
+- Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3)
 
 On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour
 in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
@@ -67,9 +67,11 @@ more efficient strategies in office hours.
 
 <a id="b:disc"></a>
 <h3>Discussion</h3>
-Discussion sections will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#p:engage">Engagement</a> with the class.
 
-**TODO** UPDATE ABOVE
+Discussion sections will demo tools and answer questions about the programming
+assignment specifications in weeks 1, 2, 4, 6, 8, and 10. In weeks 3, 5, 7, and
+9, discussion will be for tests. In the test weeks, you must attend the section
+for which you're enrolled. In the other weeks, you can attend either section.
 
 <table class="table table-striped">
 <thead>
@@ -95,6 +97,9 @@ groups will be assigned by the Lab TA and group assignments may change from
 week to week. All labs must be finished in the allotted class time.  As a
 group, you will create a lab report each week and your TA will review it and
 give you feedback.
+
+You will need a lab-specific account to use these machines, you can find yours
+at [http://acms.ucsd.edu/](http://acms.ucsd.edu/).
 
 <table class="table table-striped">
 <thead>
@@ -139,17 +144,6 @@ give you feedback.
 </tr>
 </table>
 
-<a id="podcasts"></a>
-<h3>Podcasts</h3>
-All lectures will be podcasted. **TODO** add links
-
-
-- Q&A Forum ...
-- Gradescope: ...
-- Textbook/readings: There's no official textbook, but we will link to
-  different online resources for you to read to supplement lecture. Versions
-  of this course have been taught at several universities, so sometimes I'll
-  link to those instructors' materials as well.
 
 <a id="schedule"></a>
 ## Schedule
@@ -175,16 +169,65 @@ ahead.
 <a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
-There are 22 staff to help with your learning.  You can find their names and
-pictures on **TODO: add and confirm staff num**
+There are 22 staff to help with your learning, and a few kinds of help session
+you can attend.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-### Office Hours
+The first is **office hours**, held by TAs and the instructor at the times
+listed below. Office hours are a great place for any kind of question about the
+course, from help with your assignment to clarifications about material in
+lecture to questions beyond what we cover in the course.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_iranatnnh11l5uorfkdqpahkis%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+The second is **open lab hours** where tutors are available to answer your
+questions about any course content, though often this is a good place to go for
+programming help. You can use the CSE labs at any time, but at the times below,
+the course staff will be available to answer your questions. You can use
+[https://autograder.ucsd.edu](https://autograder.ucsd.edu) to request help by
+filing a help ticket and a tutor will come to help. This system keeps track of
+a queue of help requests and we help out on a first-come, first-served basis.
 
+That said, there are some important rules for asking for help.
+
+1. You **must** give a specific, actionable request in your help ticket. If
+your ticket simply says “I'm stuck,” we will remove the ticket from the queue
+with a response that urges you to be more specific. It's OK to ask questions if
+you're not sure what you're supposed to be doing on an assignment.
+2. You **must** list at least one specific thing you tried in order to resolve
+the problem on your own, or a guess at your understanding of what you should be
+doing if you're lost.
+3. You can list a location in the lab when you make a request. If you aren't
+there when the tutor arrives to help, we'll remove your ticket from the queue.
+4. Tutors can help you understand your problem and a useful approach. They
+cannot solve your problems for you or do the programming for you. It could
+happen that you're still stuck even after getting tutor help, and that's OK!
+You can always work the problem on your own, come to office hours for a
+different perspective, or come back to the problem (even after the deadline).
+
+These rules help us make sure we get timely and actionable help to as many
+students as possible. They also encourage students to do some meaningful work
+on their own before reaching out for help – the goal of the course is for you
+to be able to do programming work on your own!
+
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+The third is **through Canvas**. For each programming assignment, we'll make a
+frequently-asked questions discussion on Canvas. You should refer to that
+during the assignment if you get stuck or have questions come up; we'll use it
+to aggregate common issues. You can feel free to comment publicly on those
+discussions, but do be conscious that other students can see what you post, so
+posting solution code is a likely academic integrity violation.
+
+For each lecture and Stepik chapter, we'll also make a discussion post for
+general commenting and questions that you have.
+
+Finally, you can always send a private message on Canvas to ask any question
+about the course. If you choose this option, please select the “All TAs” option
+for your message unless it needs to be private to an instructor. Please don't
+message individual course staff privately unless they've asked you to, and
+please don't message only the instructor with a content question. The course
+staff as a whole works together to make sure these messages get prompt
+responses (often by adding to the frequently asked questions post).
 
 <a id="grading"></a>
 ## Grading
@@ -221,7 +264,7 @@ corresponding section of the final exam.
 **Example:** A student scores 50%, 60%, 0%, and 80% on the four tests. On the final
 exam, they score 10/25, 20/25, 20/25, 15/25 on each of the four sections. Their
 final exam score would be (10 + 5) + (20 + 6) + (20 + 0) + (15 + 8) for a total
-of 83/100 on the exam in total.
+of 83/100 on the exam.
 
 **Example:**  A student scores 60%, 70%, 80%, and 90% on the tests, and then
 skips the final.  Their final exam grade will be 55%.
@@ -237,6 +280,7 @@ your final grade, since you can still earn all of the credit on the final exam
 itself. Similarly, if you miss or skip the final, the average-replacement
 policy applies.
 
+<a id="p:engage"></a>
 ### Engagement
 
 There are 20 lectures during the quarter, and each will have some interactive
@@ -248,7 +292,9 @@ of clicker technology issues, absences, and so on. For each lecture you miss
 beyond those 14, you lose one point of engagement credit (so if you attend only
 11 lectures, you get 2/5 engagement points). Surveys and other forms of
 feedback may provide ways to make up missed engagement credit during the
-quarter.
+quarter. You must register you clicker on
+[https://canvas.ucsd.edu](https://canvas.ucsd.edu).
+
 
 ### Lab Work
 
@@ -262,9 +308,9 @@ with no exceptions.
 
 There are two kinds of programming work you'll do in this course.
 
-1. **Programming Practice** will be conducted via Stepik [FILL link]. This will
-consist of short, directed programming challenges that are graded automatically
-and immediately. These often go along with reading material and short quiz
+1. **Programming Practice** will be conducted via Stepik. This will consist of
+short, directed programming challenges that are graded automatically and
+immediately. These often go along with reading material and short quiz
 questions. The quiz questions and programming material are graded together, and
 each chapter will make it clear what it means to get full credit. This work is
 to be done individually, though after the deadline it's fine to discuss it
@@ -323,6 +369,11 @@ it harder to get a better grade.
 
 ### Academic Integrity
 
+We have a [missive on academic integrity you must agree
+to](https://docs.google.com/document/d/1F6tu-82W5kFkEkZG8n4F7p-MLhyFVWLdPw5Tm1fABfM/edit?folder=1jNMUNlJuyXaOxDE5MdNNfRFARxfP40Rr#)
+that details some examples of what we expect in terms of collaboration in the
+course.
+
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
@@ -357,10 +408,16 @@ screen open, you either:
 
 - Have only content onscreen that's directly related to the current lecture.
 - Have unrelated content open and **sit in one of the back two rows of the
-room** to mitigate the effects on other students. I may remind you of this
-policy if I notice you not following it in class. Note that I really don't
-mind if you want to sit in the back and try to multi-task in various ways
-while participating in lecture (I may not recommend it, but it's your time!)
+  room** to mitigate the effects on other students. I may remind you of this
+  policy if I notice you not following it in class. Note that I won't be
+  offended if you want to sit in the back and try to multi-task in various ways
+  while participating in lecture. I certainly don't recommend it, but I also
+  respect your freedom to choose how you spend your time and attention.
+
+Shriram Krishnamurthi has aggregated some [useful links and
+literature](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) on the
+topic of devices in the classroom that you may find informative. Our policy is
+different, but the information on that page is useful.
 
 ### Diversity and Inclusion
 
