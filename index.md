@@ -7,8 +7,8 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 
 # Introduction to Programming I (UCSD CSE 8A)
 
-<b>This web page is unofficial until the start of class on Tuesday, Jan 7, at
-which point it becomes the official syllabus for the course.</b>
+<b>This web page is unofficial until this notice is removed which point it
+becomes the official syllabus for the course.</b>
 
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
 
@@ -37,13 +37,13 @@ course, as well as the syllabus.
 ## Basics
 
 - Podcasts: [coming soon]
-- Q&A Forum: [canvas]
-- Gradescope: [an invitation will be send with your first assignment]
-- Readings/quizzes/drill assignments: Stepik [link soon]
+- Q&A Forum: Discussions on Canvas
+- Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be send with your first assignment]
+- Readings/quizzes/drill assignments: Stepik [link coming soon]
 
 On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour
-in discussion, 1 hour in lab section, 2 hours on reading, review, and
-programming practice, and 4 hours working on your programming projects (either
+in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
+programming practice, and 3-5 hours working on your programming projects (either
 at home or in the open lab hours). If you find yourself spending dramatically
 more time than this, it's a good idea to contact the course staff and discuss
 more efficient strategies in office hours.
@@ -175,8 +175,8 @@ ahead.
 <a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
-There are 22 staff including 4 Supplemental Instruction leaders to help with your learning.
-You can find their names and pictures on **TODO: add and confirm staff num**
+There are 22 staff to help with your learning.  You can find their names and
+pictures on **TODO: add and confirm staff num**
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -191,10 +191,94 @@ You can find their names and pictures on **TODO: add and confirm staff num**
 
 Your grade will be calculated from:
 
-- 48% exams
-- 10% engagement
-- 15% reading, review, and drill exercises
-- 27% programming assignments
+- 40% exams
+- 5% engagement/participation
+- 10% lab work
+- 10% reading, review, and practice exercises
+- 35% programming assignments
+
+### Exams
+
+There are four tests during the quarter and a final exam. The tests will be
+held during discussion sections in weeks 3, 5, 7, and 9.
+
+The scoring of the tests and final works as follows:
+
+- All 40% of your exam points come from your final exam score.
+- The final exam will be split into four sections, roughly corresponding to the
+  material covered by each test, and each worth 25% of your exam score
+- The score you get on each test contributes to your final exam score in the
+  relevant category, up to a maximum of 10% of the 25% for that section.  You
+  can't score more than 25% on each section of the final exam with this
+  additional contribution.
+- If you get a lower score on the final exam than the average of your test
+  scores minus 20%, you instead earn that score on the final.
+
+This means that each test contributes to your final exam score, but if you miss
+or do poorly on a test you can always make up the credit by doing well on the
+corresponding section of the final exam.
+
+**Example:** A student scores 50%, 60%, 0%, and 80% on the four tests. On the final
+exam, they score 10/25, 20/25, 20/25, 15/25 on each of the four sections. Their
+final exam score would be (10 + 5) + (20 + 6) + (20 + 0) + (15 + 8) for a total
+of 83/100 on the exam in total.
+
+**Example:**  A student scores 60%, 70%, 80%, and 90% on the tests, and then
+skips the final.  Their final exam grade will be 55%.
+
+**Example:**  A student scores 100%, 100%, 100%, and 100% on the tests, and
+then gets only 5/25 of the credit in each portion of the final exam.  Their
+final exam grade will be 80%.
+
+**Make-up Exams**: There are no make-up exams given. If you miss one of the
+tests, your score for that test is a 0 and you don't earn credit towards that
+part of the final exam ahead of time. Note that this doesn't necessarily impact
+your final grade, since you can still earn all of the credit on the final exam
+itself. Similarly, if you miss or skip the final, the average-replacement
+policy applies.
+
+### Engagement
+
+There are 20 lectures during the quarter, and each will have some interactive
+questions for you to answer with an iClicker. If you answer the majority of the
+questions in a lecture, you get engagement credit for that lecture. You get
+full engagement credit if you get credit for **14** lectures. Of course, you're
+encouraged to come to all lectures, but this policy accounts for a wide range
+of clicker technology issues, absences, and so on. For each lecture you miss
+beyond those 14, you lose one point of engagement credit (so if you attend only
+11 lectures, you get 2/5 engagement points). Surveys and other forms of
+feedback may provide ways to make up missed engagement credit during the
+quarter.
+
+### Lab Work
+
+Each week in lab you'll have a small assignment to submit associated with the
+lab material. Your credit will come in part from attendance in lab and in part
+from that lab submission. We will drop your lowest lab score (including missing
+a lab entirely). For labs beyond the first that you miss, you lose the credit
+with no exceptions.
+
+### Programming
+
+There are two kinds of programming work you'll do in this course.
+
+1. **Programming Practice** will be conducted via Stepik [FILL link]. This will
+consist of short, directed programming challenges that are graded automatically
+and immediately. These often go along with reading material and short quiz
+questions. The quiz questions and programming material are graded together, and
+each chapter will make it clear what it means to get full credit. This work is
+to be done individually, though after the deadline it's fine to discuss it
+openly and publicly with other students.
+
+2. **Programming Projects** (Also called “Programming Assignments” and
+abbreviated PAs). These are more open-ended programming tasks where you will
+make design decisions about your programs and write about your choices. These
+will be graded by the staff, who will give you feedback on your code and design
+decisions. All programming work is to be done individually on the projects by
+default, we will announce any particular cases where teamwork or partners are
+allowed.
+
+### Final Scoring
 
 After your weighted average is calculated, letter grades will be assigned based
 on the following grading scale:
@@ -236,21 +320,6 @@ it harder to get a better grade.
 <a id="policies"></a>
 ## Policies
 
-### Programming
-
-There are two kinds of programming work you'll do in this course.
-
-1. **Programming Practice** will be conducted via Stepik [FILL link]. This will
-consist of short, directed programming challenges that are graded automatically
-and immediately. These often go along with reading material and short quiz
-questions. The quiz questions and programming material are graded together, and
-each chapter will make it clear what it means to get full credit.
-
-2. **Programming Projects** (Also called “Programming Assignments” and
-abbreviated PAs). These are more open-ended programming tasks where you will
-make design decisions about your programs and write about your choices. These
-will be graded by the staff, who will give you feedback on your code and design
-decisions.
 
 ### Academic Integrity
 
@@ -266,46 +335,11 @@ assignments and will be announced during the quarter.
 
 ### Regrades
 
-Mistakes occur in grading. Once grades are posted for an assignment, we will
-allow a short period for you to request a fix (announced along with grade
-release). If you don't make a request in the given period, the grade you were
-initially given is final.
+Mistakes sometimes occur in grading. Once grades are posted for an assignment,
+we will allow a short period for you to request a fix (announced along with
+grade release). If you don't make a request in the given period, the grade you
+were initially given is final.
 
-
-### Exams
-
-There are four tests during the quarter and a final exam. The tests will be
-held during discussion sections in weeks 3, 5, 7, and 9.
-
-The scoring of the tests and final works as follows:
-
-- The final exam will be split into four sections, roughly corresponding to the
-  material covered by each test, and each worth 25% of your exam score
-- The score you get on each test adds to your final exam score in the relevant
-  category, up to a maximum of 10 out of the 25 points for that section.
-
-This means that each test can help your final exam score, but you don't lose
-points forever for a poor grade on a test, it just means you need to do better
-on that part of the final exam.
-
-Example: A student scores 50%, 60%, 0%, and 80% on the four tests. On the final
-exam, they score 10/25, 20/25, 20/25, 15/25 on each of the four sections. Their
-final exam score would be (10 + 5) + (20 + 6) + (20 + 0) + (15 + 8) for a total
-of 83/100 on the exam in total. Note that on the second part, 20 points earned
-on the exam and 6 points earned on the in-class test do not give extra credit,
-they “max out” the score at 25 for that part of the final.
-
-**Make-up Exams**: There are no make-up exams given. If you miss one of the
-tests, your score for that test is a 0 and you don't earn credit towards that
-part of the final exam ahead of time. Note that this doesn't necessarily impact
-your final grade, since you can still earn all of the credit on the final exam
-itself. If you get a lower score on the final exam than the average of your
-test scores minus 15%, you instead earn that score on the final. This includes
-the case where you miss or skip the final exam. So if you scored 60%, 70%, 80%,
-and 90% on the two midterms and skip the final, your final exam grade will be
-60%. Similarly, if you took the final but only earned a few points and would
-have earned something lower than 60% overall, you get 60% for your final exam
-grade instead.
 
 ### Laptop/Device Policy in Lecture
 
