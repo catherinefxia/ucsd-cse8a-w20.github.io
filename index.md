@@ -63,12 +63,13 @@ more efficient strategies in office hours.
 </table>
 
 <a id="b:disc"></a>
-<h3>Discussion</h3>
+<h3>Discussion Sections</h3>
 
 Discussion sections will demo tools and answer questions about the programming
-assignment specifications in weeks 1, 2, 4, 6, 8, and 10. In weeks 3, 5, 7, and
-9, discussion will be for tests. In the test weeks, you must attend the section
-for which you're enrolled. In the other weeks, you can attend either section.
+assignment specifications in weeks 1, 2, 4, 6, 8, and 10. Attendance is highly
+recommended but not required. In weeks 3, 5, 7, and 9, discussion will be for
+tests. In the test weeks, you must attend the section for which you're
+enrolled. In the other weeks, you can attend either section.
 
 <table class="table table-striped">
 <thead>
