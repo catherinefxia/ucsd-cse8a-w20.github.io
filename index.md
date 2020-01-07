@@ -99,7 +99,7 @@ group, you will create a lab report each week and your TA will review it and
 give you feedback.
 
 You will need a lab-specific account to use these machines, you can find yours
-at [http://acms.ucsd.edu/](http://acms.ucsd.edu/).
+at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
 
 <table class="table table-striped">
 <thead>
