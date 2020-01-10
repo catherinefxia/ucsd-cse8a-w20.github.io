@@ -1,0 +1,55 @@
+Python 3.7.6 (default, Dec 30 2019, 19:38:26) 
+[Clang 11.0.0 (clang-1100.0.33.16)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: /Users/joe/src/ucsd-cse8a-w20.github.io/lectures/CSE8AW20-01-07-Lec1-Intro/lecture9am.py
+>>> 
+>>> 4
+4
+>>> 4 + 5
+9
+>>> (4 + 5) * 7
+63
+>>> 4 + 5 * 7
+39
+>>> x = 9
+>>> x
+9
+>>> x - 1
+8
+>>> (x + 3) * 2
+24
+>>> a_longer_name = 7
+>>> a_longer_name + x
+16
+>>> x = 99999999
+>>> x
+99999999
+>>> y = a_longer_name
+>>> y
+7
+>>> a_longer_name = 88888888
+>>> y
+7
+>>> 
+= RESTART: /Users/joe/src/ucsd-cse8a-w20.github.io/lectures/CSE8AW20-01-07-Lec1-Intro/lecture9am.py
+>>> number_of_students
+350
+>>> x
+Traceback (most recent call last):
+  File "<pyshell#18>", line 1, in <module>
+    x
+NameError: name 'x' is not defined
+>>> number_of_tas
+3
+>>> number_of_tutors
+19
+>>> number_of_staff
+Traceback (most recent call last):
+  File "<pyshell#21>", line 1, in <module>
+    number_of_staff
+NameError: name 'number_of_staff' is not defined
+>>> 
+= RESTART: /Users/joe/src/ucsd-cse8a-w20.github.io/lectures/CSE8AW20-01-07-Lec1-Intro/lecture9am.py
+>>> number_of_staff
+22

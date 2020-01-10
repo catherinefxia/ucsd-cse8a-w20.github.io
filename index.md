@@ -33,7 +33,7 @@ course, as well as the syllabus.
 
 ## Basics
 
-- Podcasts: [coming soon]
+- Podcasts: [https://podcast.ucsd.edu/watch/wi20/cse8a_b00](https://podcast.ucsd.edu/watch/wi20/cse8a_b00)
 - Q&A Forum: Discussions on [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
 - Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3)
