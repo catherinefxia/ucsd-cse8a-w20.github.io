@@ -30,8 +30,33 @@ def my_abs(n):
 
 
 
-def letter_grade(points):
+def my_abs(n):
+  if n < 0:
+    return n * -1
+  else:
+    return n
+
+def letter_grade1(points):
   if points >= 90: return "A"
   elif points >= 80: return "B"
   elif points >= 70: return "C"
   else: return "F"
+
+def letter_grade2(points):
+  if points >= 90: return "A"
+  elif points >= 80: return "B"
+  elif points >= 70: return "C"
+  elif points < 70: return "F"
+
+def letter_grade3(points):
+  if points < 70: return "F"
+  elif points < 80: return "C"
+  elif points < 90: return "B"
+  else: return "A"
+
+def letter_grade4(points):
+  if points < 70: return "F"
+  elif points >= 70: return "C"
+  elif points >= 80: return "B"
+  elif points >= 90: return "A" 
+
