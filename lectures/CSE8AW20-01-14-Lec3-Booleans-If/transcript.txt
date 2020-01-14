@@ -1,0 +1,122 @@
+Python 3.7.6 (default, Dec 30 2019, 19:38:26) 
+[Clang 11.0.0 (clang-1100.0.33.16)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: /Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py
+>>> 5 < 6
+True
+>>> 5 < 5
+False
+>>> 5 >= 5
+True
+>>> x = 89
+>>> x > 100
+False
+>>> True
+True
+>>> False
+False
+>>> 89 == x
+True
+>>> 88 == x
+False
+>>> s = "banana"
+>>> s == "banana"
+True
+>>> "1" == 1
+False
+>>> "a" < "b"
+True
+>>> "b" < "a"
+False
+>>> "dog" > "cat"
+True
+>>> s = "notabanana
+SyntaxError: EOL while scanning string literal
+>>> s = "notabanana"
+>>> s
+'notabanana'
+>>> a = "apple"
+>>> a == "orange"
+False
+>>> a == "apple"
+True
+>>> "apple" == "apple"
+True
+>>> True and False
+False
+>>> True or False
+True
+>>> False and True
+False
+>>> False or True
+True
+>>> True or True
+True
+>>> # or is inclusive in Python
+>>> # b1 or b2 is True when either or both b1, b2 are True
+>>> # b1 and b2 is True when both b1, b2 are True
+>>> not True
+False
+>>> not False
+True
+>>> not True or True
+True
+>>> (not True) or True
+True
+>>> not (True or True)
+False
+>>> a = 50
+>>> (a > 10)
+True
+>>> not (a <= 10)
+True
+>>> 10 < a
+True
+>>> not (a < 10)
+True
+>>> 
+= RESTART: /Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py
+>>> is_longer_than("pa$$w0rd", 8)
+Traceback (most recent call last):
+  File "<pyshell#40>", line 1, in <module>
+    is_longer_than("pa$$w0rd", 8)
+  File "/Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py", line 2, in is_longer_than
+    return int(s) > n
+ValueError: invalid literal for int() with base 10: 'pa$$w0rd'
+>>> 
+= RESTART: /Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py
+>>> is_longer_than("pa$$w0rd", 8)
+False
+>>> is_longer_than("pa$$w0rd", 7)
+True
+>>> is_longer_than("pa$$", 10)
+False
+>>> s = "banana"
+>>> "a" = "banana"
+SyntaxError: can't assign to literal
+>>> 
+= RESTART: /Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py
+>>> is_longer_than("pa$$w0rd", 8)
+False
+>>> is_longer_than("pa$$", 10)
+False
+>>> is_longer_than("pa$$w0rd", 7)
+False
+>>> s = "pa$$word"
+>>> len("s")
+1
+>>> len(s)
+8
+>>> 
+= RESTART: /Users/joe/Google Drive (jpolitz@eng.ucsd.edu)/CSE 8A/Winter 2020/Lectures/CSE8AW20-01-14-Lec3-Booleans-If/booleans-if-8am.py
+>>> is_longer_than("pa$$w0rd", 7)
+True
+>>> is_longer_than("pa$$", 10)
+False
+>>> is_longer_than("pa$$w0rd", 8)
+False
+>>> s = "banana"
+>>> is_longer_than(s, 5)
+True
+>>> 
