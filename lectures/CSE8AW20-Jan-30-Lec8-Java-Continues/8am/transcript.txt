@@ -1,0 +1,122 @@
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+Exception in thread "main" java.lang.AssertionError
+	at IsLongerThan.main(IsLongerThan.java:8)
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+Exception in thread "main" java.lang.AssertionError
+	at IsLongerThan.main(IsLongerThan.java:7)
+$ java -ea IsLongerThan
+Exception in thread "main" java.lang.AssertionError
+	at IsLongerThan.main(IsLongerThan.java:7)
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+IsLongerThan.java:8: error: incompatible types: int cannot be converted to boolean
+    assert 1;
+           ^
+1 error
+$ javac LetterGrade.java
+$ java -ea LetterGrade
+$ javac LetterGrade.java
+$ java -ea LetterGrade
+$ javac LetterGrade.java
+$ java -ea LetterGrade
+Error: Main method not found in class LetterGrade, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+$ javac LetterGrade.java
+$ java -ea LetterGrade
+$ javac LetterGrade.java
+LetterGrade.java:12: error: ')' expected
+    else if(points <= 70 {
+                        ^
+1 error
+$ javac LetterGrade.java
+LetterGrade.java:15: error: missing return statement
+  }
+  ^
+1 error
+$ javac LetterGrade.java
+LetterGrade.java:15: error: missing return statement
+  }
+  ^
+1 error
+$
+$ javac Phase.java
+Phase.java:14: error: missing return statement
+  }
+  ^
+1 error
+$ javac Phase.java
+$ java -ea Phase
+$ javac Phase.java
+$ java -ea Phase
+Exception in thread "main" java.lang.AssertionError
+	at Phase.main(Phase.java:18)
+$ javac Phase.java
+$ java -ea Phase
+$ javac Phase.java
+Phase.java:14: error: missing return statement
+  }
+  ^
+1 error
+$ javac Phase.java
+$ javac Phase.java
+$ javac Practice.java
+Practice.java:4: error: ',', ')', or '[' expected
+    if((int n > int start) && (int n < int end)) {
+             ^
+Practice.java:4: error: illegal start of expression
+    if((int n > int start) && (int n < int end)) {
+              ^
+Practice.java:4: error: '.class' expected
+    if((int n > int start) && (int n < int end)) {
+                    ^
+Practice.java:4: error: ';' expected
+    if((int n > int start) && (int n < int end)) {
+                         ^
+Practice.java:4: error: ';' expected
+    if((int n > int start) && (int n < int end)) {
+                                    ^
+Practice.java:4: error: > expected
+    if((int n > int start) && (int n < int end)) {
+                                           ^
+Practice.java:4: error: ';' expected
+    if((int n > int start) && (int n < int end)) {
+                                              ^
+Practice.java:7: error: 'else' without 'if'
+    else {
+    ^
+8 errors
+$ javac Practice.java
+$ javac Practice.java
+$ java -ea Practice
+$ javac Practice.java
+$ java -ea Practice
+Exception in thread "main" java.lang.AssertionError
+	at Practice.main(Practice.java:17)
+$ javac Practice.java
+Practice.java:5: error: bad operand types for binary operator '<'
+    if(start < n < end) {
+                 ^
+  first type:  boolean
+  second type: int
+1 error
+$ javac Practice.java
+$ java -ea Practice
+$ javac Practice.java
+Practice.java:16: error: <identifier> expected
+  static ________ addLengths(________________________) {
+                                                     ^
+1 error
+$ javac Practice.java
+$ javac Practice.java
+$ javac Practice.java
+$ java -ea Practice

@@ -1,0 +1,71 @@
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+Exception in thread "main" java.lang.AssertionError
+	at IsLongerThan.main(IsLongerThan.java:8)
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+$ javac IsLongerThan.java
+$ java -ea IsLongerThan
+Exception in thread "main" java.lang.AssertionError
+	at IsLongerThan.main(IsLongerThan.java:7)
+$
+$ javac Phase.java
+$ java -ea Phase
+$ javac Phase.java
+$ java -ea Phase
+Exception in thread "main" java.lang.AssertionError
+	at Phase.main(Phase.java:18)
+$ javac Phase.java
+$ java -ea Phase
+$ javac Phase.java
+$ java -ea Phase
+water
+$ javac Phase.java
+$ java -ea Phase
+Expect this to be 50: water
+$ javac Phase.java
+$ java -ea Phase
+Expect this to be water for 50: water
+$ javac Practice.java
+$ java -ea Practice
+$ javac Practice.java
+$ java -ea Practice
+Exception in thread "main" java.lang.AssertionError
+	at Practice.main(Practice.java:12)
+$ javac Practice.java
+$ java -ea Practice
+$ javac Practice.java
+Practice.java:3: error: bad operand types for binary operator '<'
+    return low < obs < high;
+                     ^
+  first type:  boolean
+  second type: int
+1 error
+$ javac Practice.java
+$ java -ea Practice
+Exception in thread "main" java.lang.AssertionError
+	at Practice.main(Practice.java:10)
+$ javac Practice.java
+$ java -ea Practice
+Exception in thread "main" java.lang.AssertionError
+	at Practice.main(Practice.java:20)
+$ javac Practice.java
+$ java -ea Practice
+Exception in thread "main" java.lang.AssertionError
+	at Practice.main(Practice.java:24)
+$ javac Practice.java
+$ java -ea Practice
+$ javac Practice.java
+$ java -ea Practice
+Error: Main method not found in class Practice, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+$ javac Practice.java
+$ java -ea Practice
+Error: Main method not found in class Practice, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
