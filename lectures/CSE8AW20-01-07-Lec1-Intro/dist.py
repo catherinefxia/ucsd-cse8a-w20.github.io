@@ -1,0 +1,16 @@
+x1 = input()
+y1 = input()
+x2 = input()
+y2 = input()
+x3 = input()
+y3 = input()
+x4 = input()
+y4 = input()
+
+dist1 = abs(x1 - x2) + abs(y1 - y2)
+dist2 = abs(x2 - x3) + abs(y2 - y3)
+dist3 = abs(x3 - x4) + abs(y3 - y4)
+
+print(dist1)
+print(dist2)
+print(dist3)
