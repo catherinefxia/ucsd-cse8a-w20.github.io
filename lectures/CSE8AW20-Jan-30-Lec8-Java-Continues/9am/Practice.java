@@ -27,9 +27,4 @@ class Practice {
 
 
   }
-
-
-
-
-
 }
