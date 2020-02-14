@@ -238,6 +238,18 @@ Your grade will be calculated from:
 - 10% reading, review, and practice exercises
 - 35% programming assignments
 
+### Calculating PA Credit
+
+The total number of points for PAs will be around 150 – it may be higher or
+lower than that depending on how exactly the PAs get weighted, which we
+partially decide during grading.  The required points for full credit towards
+PAs will be less than this by at least 15 points. This roughly has the effect
+of making a low PA score not count, while still incentivizing you to resubmit
+PAs to make up lost credit, since all points go towards the same total.
+There's no extra  credit for getting _more_ points than this total. So think of
+roughly 135/150 plus or minus a few points as your target for full credit on
+programming work in the class.
+
 ### Exams
 
 There are four tests during the quarter and a final exam. The tests will be
