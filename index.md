@@ -296,13 +296,14 @@ policy applies.
 There are 20 lectures during the quarter, and each will have some interactive
 questions for you to answer with an iClicker. If you answer the majority of the
 questions in a lecture, you get engagement credit for that lecture. You get
-full engagement credit if you get credit for **14** lectures. Of course, you're
-encouraged to come to all lectures, but this policy accounts for a wide range
-of clicker technology issues, absences, and so on. For each lecture you miss
-beyond those 14, you lose one point of engagement credit (so if you attend only
-11 lectures, you get 2/5 engagement points). Surveys and other forms of
-feedback may provide ways to make up missed engagement credit during the
-quarter. You must register you clicker on
+full engagement credit if you get credit for <s>**14**</s> **12** lectures
+(adjusted down due to some technical iClicker issues in some lectures). Of
+course, you're encouraged to come to all lectures, but this policy accounts for
+a wide range of clicker technology issues, absences, and so on. For each
+lecture you miss beyond those 14, you lose one point of engagement credit (so
+if you attend only 11 lectures, you get 2/5 engagement points). Surveys and
+other forms of feedback may provide ways to make up missed engagement credit
+during the quarter. You must register you clicker on
 [https://canvas.ucsd.edu](https://canvas.ucsd.edu).
 
 
